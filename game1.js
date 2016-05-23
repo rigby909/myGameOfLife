@@ -1,7 +1,7 @@
 var gameWidth=10;
 var gameHeight=10;
 var liveCells= [];
-$.getJSON('http://rigby909.github.io/theGameOfLife/live.json', function(data){ //получение данных из файла
+$.getJSON('http://rigby909.github.io/myGameOfLife/live.json', function(data){ //получение данных из файла
 	liveCells = data;
 	$(function(){
 		for (var x = 1; x <= gameWidth; x++) { //рисуем поле
