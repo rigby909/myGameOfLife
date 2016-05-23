@@ -10,4 +10,4 @@ Rules:
 You can control the game using the button.
 Let's play the Game of Life!
 The link is here:
-[http://rigby909.github.io/NewTheGameOfLife/game.html]
+[http://rigby909.github.io/myGameOfLife/game.html]
