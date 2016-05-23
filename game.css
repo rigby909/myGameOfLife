@@ -1,0 +1,26 @@
+.container {
+	width: 250px;
+	height: 250px;
+}
+.game-field {
+	width: 250px;
+	height: 250px;
+}
+#next {
+	width: 100px;
+	height: 50px;
+	margin-left: 27%;
+}
+.field{
+	display: inline-block;
+	border: 2px solid black;
+	width: 20px;
+	height: 20px;
+	float: left;
+	}
+.alive{
+	background-color: #16750d;
+	}
+.dead{
+	background-color: white;
+	}
